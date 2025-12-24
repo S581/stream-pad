@@ -2,6 +2,9 @@
 
 **Steampad** is a high-performance 4x4 macropad featuring a rotary encoder and full per-key RGB lighting. Powered by the **Seeed Studio XIAO RP2040**, it is designed for maximum productivity and customization using **QMK Firmware** and the **VIAL** protocol.
 
+![Steampad](images/HackPad.png)
+
+
 ---
 
 ## Features
@@ -14,7 +17,11 @@
 ---
 
 ## Hardware Overview
-The Steampad uses a matrix circuit with a **COL2ROW** diode orientation, ensuring that every keypress is registered independently (NKRO).
+The Steampad uses a matrix circuit with a **COL2ROW** diode orientation, ensuring that every keypress is registered independently (NKRO). Designed in KiCad.
+
+
+![Schematic](images/schem.png)
+
 
 ### PCB & Pinout
 * **Controller:** Seeed Studio XIAO RP2040
@@ -22,6 +29,17 @@ The Steampad uses a matrix circuit with a **COL2ROW** diode orientation, ensurin
 * **Columns:** GP4, GP7, GP27, GP26
 * **RGB Data:** GP6 (D5)
 * **Encoder:** GP29 (Phase A), GP28 (Phase B)
+
+
+![PCB](images/PCB.png)
+
+---
+
+### Enclosure
+The Steampad's enclosure does not any have screws. It will be secured by notches under the cover and glued for a cleaner (in my opinion) look.
+
+
+![aEnclosure](images/Case.png)
 
 
 
