@@ -54,3 +54,9 @@ The firmware is built on **QMK** with VIAL features enabled.
 * **16x** SK6812 Mini-E (or WS2812B) LEDs
 * **16x** Keycaps
 * **1x** Steampad Case & Plate
+
+---
+
+### Others:
+Hi, I made this for 2 days and this is my first time ever coding, making PCBs, and making cases in fusion. I have very little experience with softwares like Fusion and KiCad.
+I made this MacroPad to make my life easier and also to gain experiences for my future career.
