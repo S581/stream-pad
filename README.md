@@ -35,8 +35,6 @@ The Steampad uses a matrix circuit with a **COL2ROW** diode orientation, ensurin
 
 ---
 
-### Enclosure
-The Steampad's enclosure does not any have screws. It will be secured by notches under the cover and glued for a cleaner (in my opinion) look.
 
 
 ![aEnclosure](images/Case.png)
@@ -71,6 +69,7 @@ The firmware is built on **QMK** with VIAL features enabled.
 * **16x** 1N4148 Diodes
 * **16x** SK6812 Mini-E (or WS2812B) LEDs
 * **16x** Keycaps
+* **1x** M3x5mx4mm heatset inserts
 * **1x** Steampad Case & Plate
 
 ---
