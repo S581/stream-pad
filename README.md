@@ -37,7 +37,7 @@ The Steampad uses a matrix circuit with a **COL2ROW** diode orientation, ensurin
 
 
 
-![aEnclosure](images/Case.png)
+![Case](images/Case.png)
 
 
 
