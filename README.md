@@ -69,7 +69,7 @@ The firmware is built on **QMK** with VIAL features enabled.
 * **16x** 1N4148 Diodes
 * **16x** SK6812 Mini-E (or WS2812B) LEDs
 * **16x** Keycaps
-* **1x** M3x5mx4mm heatset inserts
+* **3x** M3x5mx4mm heatset inserts
 * **1x** Steampad Case & Plate
 
 ---
